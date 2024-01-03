@@ -24,6 +24,6 @@ Here are my socials and media logs:
   [MAL](https://myanimelist.net/profile/MimiMc4)
   [VN Database](https://vndb.org/u244935)
   [Letterboxd](https://letterboxd.com/MimiMc4/)
-  [Backloggd](https://backloggd.com/u/MimiMc4/)
+  [HowLongToBeat](https://howlongtobeat.com/user/MimiMc4)
 
 Nipah!
