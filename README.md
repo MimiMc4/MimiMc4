@@ -1,4 +1,4 @@
-### Hi!!1! :3
+### Hi!!1! 
 
 <!--
 **MimiMc4/MimiMc4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
