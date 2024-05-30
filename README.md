@@ -23,6 +23,6 @@ Here are my socials and media logs:
   [itch.io](https://mimimc4.itch.io) //
   [mal](https://myanimelist.net/profile/MimiMc4) //
   [vn database](https://vndb.org/u244935) //
-  [letterboxd](https://letterboxd.com/MimiMc4/) //
+  [letterboxd](https://letterboxd.com/MimiMc4/) 
 
 nipah~☆
