@@ -19,10 +19,6 @@ i'm mimi, a computer science student and musician who aspires to create little s
 
 Here are my socials and media logs:
   [twitter](https://twitter.com/mimi_mc4) //
-  [twitch](https://www.twitch.tv/mimi_mc4) //
   [itch.io](https://mimimc4.itch.io) //
-  [mal](https://myanimelist.net/profile/MimiMc4) //
-  [vn database](https://vndb.org/u244935) //
-  [letterboxd](https://letterboxd.com/MimiMc4/) 
 
 nipah~☆
