@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 i'm mimi, a computer science student and musician who aspires to create little silly games.
 
 You can find me here:
-  [personal web] (https://mimimc4.github.io/) //
+  [personal web](https://mimimc4.github.io/) //
   [twitter](https://twitter.com/mimi_mc4) //
   [itch.io](https://mimimc4.itch.io) //
 
