@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-i'm mimi, a computer science student and musician who aspires to create little silly games.
+i'm mimi, a computer science student who aspires to create little silly games.
 
 You can find me here:
   [personal web](https://mimimc4.github.io/) //
