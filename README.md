@@ -1,4 +1,4 @@
-### hi!!1! 
+### hi!1! 
 
 <!--
 **MimiMc4/MimiMc4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-i'm mimi, a computer science student who aspires to create little silly games.
+i'm mimi, a comp-sci student doing things.
 
 You can find me here:
-  [personal web](https://mimimc4.github.io/) //
+  [web](https://mimimc4.github.io/) //
   [twitter](https://twitter.com/mimi_mc4) //
   [itch.io](https://mimimc4.itch.io) //
 
