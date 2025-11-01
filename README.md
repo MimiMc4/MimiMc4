@@ -1,25 +1,24 @@
-### hi!1! 
+# mimi •°
 
-<!--
-**MimiMc4/MimiMc4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm mimi, a computer science student interested in **embedded systems**, **distributed computing**, and **low-level programming**.
 
-Here are some ideas to get you started:
+## languages:
+  - c, c++, golang, rust
+  - java, haskell
+  - bash, python, make
+  - html/css, latex
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## tools & environments
+  - linux (daily driver) 
+  - git
+  - gcc/clang
+  - kubernetes, docker
+  - nvim, vscode
+  
 
-i'm mimi, a comp-sci student doing things.
+## about
+i like experimenting with technology in general: mainly exploring system-level programming and the design of distributed systems, but also playing around with graphics programming and web development.
 
 You can find me here:
-  [web](https://mimimc4.github.io/) //
-  [twitter](https://twitter.com/mimi_mc4) //
-  [itch.io](https://mimimc4.itch.io) //
+  [website](https://mimimc4.github.io/) // [twitter](https://twitter.com/mimi_mc4) // [itch.io](https://mimimc4.itch.io)
 
-nipah~☆
