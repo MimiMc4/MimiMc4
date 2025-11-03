@@ -9,7 +9,7 @@ i'm mimi, a computer science student interested in **embedded systems**, **distr
   - html/css, latex
 
 ## tools & environments
-  - linux (daily driver) 
+  - linux (daily driver) (i use arch, btw)
   - git
   - gcc/clang
   - kubernetes, docker
