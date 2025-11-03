@@ -3,17 +3,11 @@
 i'm mimi, a computer science student interested in **embedded systems**, **distributed computing**, and **low-level programming**.
 
 ## languages:
-  - c, c++, golang, rust
-  - java, haskell
-  - bash, python, make
-  - html/css, latex
+  - systems: c, c++, golang, rust
+  - others: java, haskell, python, bash
 
-## tools & environments
-  - linux (daily driver) (i use arch, btw)
-  - git
-  - gcc/clang
-  - kubernetes, docker
-  - nvim, vscode
+## tools
+  linux (arch btw) · git · gcc/clang · docker/kubernetes · nvim/vscode
   
 
 ## about
