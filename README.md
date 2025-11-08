@@ -1,6 +1,6 @@
 # mimi •°
 
-i'm mimi, a computer science student interested in **embedded systems**, **distributed computing**, and **low-level programming**.
+i'm mimi, a computer science student interested in **embedded systems**, **low-level programming**, and **distributed computing**.
 
 ## languages:
   - systems: c, c++, golang, rust
