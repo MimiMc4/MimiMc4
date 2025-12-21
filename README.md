@@ -7,7 +7,7 @@ i'm mimi, a computer science student interested in **embedded systems**, **low-l
   - others: java, haskell, python, bash
 
 ## tools
-  linux (arch btw) ·  nvim/vscode · git · gcc/clang · docker/kubernetes
+  linux (arch btw) ·  nvim/vscode · git · gcc/clang
   
 
 ## about
