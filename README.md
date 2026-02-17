@@ -1,7 +1,6 @@
 # mimi •°
 
-i'm mimi, a computer science student interested in **embedded systems**, **low-level programming**, and **distributed computing**.
-
+i'm mimi, a computer science student interested in computer arquitecture, embedded systems, low-level programming.
 ## languages:
   - systems: c, c++, golang, rust
   - others: java, haskell, python, bash
@@ -11,7 +10,6 @@ i'm mimi, a computer science student interested in **embedded systems**, **low-l
   
 
 ## about
-i like experimenting with technology in general: mainly exploring system-level programming and the design of distributed systems, but also playing around with graphics programming and web development.
+i like experimenting with technology in general: mainly exploring system-level programming, but also playing around with graphics programming and web development.
 
-  - you can find me here: [website](https://mimimc4.github.io/) // [twitter](https://twitter.com/mimi_mc4) // [itch.io](https://mimimc4.itch.io)
-
+  -  [personal website](https://mimimc4.github.io/)
