@@ -1,6 +1,6 @@
 # mimi •°
 
-i'm mimi, a computer science student interested in computer arquitecture, embedded systems, low-level programming.
+i'm mimi, a computer science student interested in computer architecture, embedded systems, low-level programming.
 ## languages:
   - systems: c, c++, golang, rust
   - others: java, haskell, python, bash
