@@ -12,4 +12,4 @@ i'm mimi, a computer science student interested in computer architecture, embedd
 ## about
 i like experimenting with technology in general: mainly exploring system-level programming, but also playing around with graphics programming and web development.
 
-  -  [personal website](https://mimimc4.github.io/)
+  -  [personal website](https://mimi.tehe.moe/)
